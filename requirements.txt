@@ -1,1 +1,14 @@
 
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+tensorflow
+pytorch
+
