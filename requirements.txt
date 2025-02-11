@@ -18,4 +18,5 @@ pytesseract
 python-docx
 uuid
 speech_recognition
+pillow
 
