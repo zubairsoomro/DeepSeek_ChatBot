@@ -11,4 +11,11 @@ scikit-learn
 scipy
 tensorflow
 pytorch
+mic_recorder
+PyPDF2
+StringIO
+pytesseract
+python-docx
+uuid
+speech_recognition
 
